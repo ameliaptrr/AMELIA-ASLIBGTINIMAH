@@ -1,0 +1,22 @@
+.nav-link.collapsed {
+  background-color: #e24c00 !important;
+  color: #000 !important;
+}
+.sidebar-heading {
+  color: #000 !important;
+}
+
+.card.login {
+  background-color: #f2d06b;
+}
+.card.login .card-header {
+  background-color: transparent;
+  border: none;
+}
+
+.card.login .btn-primary {
+  background-color: #e24c00 !important;
+  border: none;
+  color: #000;
+  font-weight: bold;
+}
